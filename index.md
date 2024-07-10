@@ -1,7 +1,8 @@
 ---
 title: About CNLS
 feature_text: |
-  ## Center for Nonlinear Studies at Los Alamos National Laboratory 
+  ## Center for Nonlinear Studies
+  ### at Los Alamos National Laboratory 
   Stimulating interdisciplinary collaboration throughout LANL and worldwide
 feature_image: "https://picsum.photos/1300/400?image=989"
 excerpt: "Los Alamos National Laboratory's Center for Nonlinear Studies identifies and studies fundamental nonlinear problems and promotes the use of the results in applied research. CNLS stimulates interdisciplinary research and information exchanges inside and outside the Laboratory, providing a focal point for collaboration with academic and other centers of excellence in nonlinear science. Its robust partnership with students and postdocs from various divisions promotes scientific and staffing advancements for the Lab."
@@ -20,8 +21,6 @@ Los Alamos National Laboratory's Center for Nonlinear Studies (CNLS) identifies 
 - Foster interdisciplinary community through coffee and events
 
 ## Major Research Areas
-
-Core CNLS research areas include:
 
 - information science
 - machine learning
