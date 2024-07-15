@@ -22,24 +22,24 @@ Los Alamos National Laboratory's Center for Nonlinear Studies (CNLS) operates ou
 
 ## Major Research Areas
 
-- information science
-- machine learning
-- quantum information
-- condensed matter physics
-- materials science
-- quantitative biology
-- statistical physics and non-equilibrium statistical physics
-- turbulence, geophysics
+- Information science
+- Machine learning
+- Quantum information
+- Condensed matter physics
+- Materials science
+- Quantitative biology
+- Statistical physics and non-equilibrium statistical physics
+- Turbulence, geophysics
 
 
 ## Contact
 
-Phone: 505-665-3883
-Email: cnlsoffice@lanl.gov
+Phone: 505-665-3883  
+Email: cnlsoffice@lanl.gov  
 
-Mailing Address: 
-CNLS, MS B258
-Los Alamos National Laboratory
+Mailing Address:  
+CNLS, MS B258  
+Los Alamos National Laboratory  
 Los Alamos, NM 87545
 
 
