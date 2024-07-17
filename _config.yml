@@ -124,7 +124,7 @@ navigation_header:
 - title: Home
   url: /
 - title: Our Team
-  url: /our_team/
+  url: /our_team.html
 - title: Upcoming Events
   url: /upcoming_events/
 - title: Past Conferences
