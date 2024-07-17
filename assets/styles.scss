@@ -6,6 +6,21 @@ styles: true
 @import "alembic";
 
 // Custom styles
+
+/* styles.css */
+
+/* General styles */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f0f0f0;
+    padding: 20px;
+}
+
+.container {
+    max-width: 900px;
+    margin: 0 auto;
+}
+
 .staff-list {
     list-style-type: none;
     padding: 0;
