@@ -7,7 +7,6 @@ excerpt: "A demo of Markdown and HTML includes TESTexcerpt"
 aside: true
 ---
 <style>
-
 .container {
     max-width: 900px;
     margin: 0 auto;
@@ -32,6 +31,8 @@ aside: true
 }
 </style>
 
+<!-- Markdown content -->
+
 <div class="container">
     <ul class="staff-list">
         <li class="staff-member">
@@ -45,7 +46,7 @@ aside: true
         </li>
         <li class="staff-member">
             <img src="assets/photos/postdocs/Brunner-Jim.png" alt="Jim Brunner">
-         </li>
+        </li>
         <li class="staff-member">
             <img src="assets/photos/postdocs/Coffing-Shane.png" alt="Shane Coffing">
         </li>
@@ -69,7 +70,7 @@ aside: true
         </li>
         <li class="staff-member">
             <img src="assets/photos/postdocs/Larocca-Martin.png" alt="Martin Larocca">
-         </li>
+        </li>
         <li class="staff-member">
             <img src="assets/photos/postdocs/Leveillee-Josh.png" alt="Josh Leveillee">
         </li>
@@ -93,7 +94,7 @@ aside: true
         </li>
         <li class="staff-member">
             <img src="assets/photos/postdocs/Tovar-Eric.png" alt="Eric Tovar">
-         </li>
+        </li>
         <li class="staff-member">
             <img src="assets/photos/postdocs/Tran-Brian.png" alt="Brian Tran">
         </li>
@@ -117,10 +118,9 @@ aside: true
         </li>
         <li class="staff-member">
             <img src="assets/photos/postdocs/Young-Charlie.png" alt="Charlie Young">
-         </li>
+        </li>
         <li class="staff-member">
             <img src="assets/photos/postdocs/Zhang-Hao.png" alt="Hao Zhang">
         </li>
-        <!-- Add more staff members as needed -->
     </ul>
 </div>
