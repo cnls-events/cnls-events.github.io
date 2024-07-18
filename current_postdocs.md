@@ -6,6 +6,7 @@ feature_image: "https://picsum.photos/2560/600?image=873"
 excerpt: "A demo of Markdown and HTML includes TESTexcerpt"
 aside: true
 ---
+<style>
 
 .container {
     max-width: 900px;
@@ -29,7 +30,7 @@ aside: true
     max-width: 100%;
     height: auto;
 }
-
+</style>
 
 <div class="container">
     <ul class="staff-list">
