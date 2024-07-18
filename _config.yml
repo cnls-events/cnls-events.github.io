@@ -124,7 +124,7 @@ navigation_header:
 - title: Home
   url: /
 - title: Current Postdocs
-  url: /current_postdocs/
+  url: current_postdocs.html
 - title: Upcoming Events
   url: /upcoming_events/
 - title: Past Conferences
