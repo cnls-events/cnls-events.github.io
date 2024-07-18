@@ -7,6 +7,29 @@ excerpt: "A demo of Markdown and HTML includes TESTexcerpt"
 aside: true
 ---
 
+.container {
+    max-width: 900px;
+    margin: 0 auto;
+}
+
+.staff-list {
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+    gap: 20px;
+}
+
+.staff-member {
+    text-align: center;
+}
+
+.staff-member img {
+    max-width: 100%;
+    height: auto;
+}
+
 
 <div class="container">
     <ul class="staff-list">
