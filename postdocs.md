@@ -4,7 +4,7 @@ feature_text: |
   porting html to markdown
 feature_image: "https://picsum.photos/2560/600?image=873"
 excerpt: "test"
-aside: true
+aside: false
 ---
 
 <style>
