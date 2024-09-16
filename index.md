@@ -15,7 +15,7 @@ Conference sponsorship is a major institutional activity of the Center for Nonli
 
 To learn more about obtaining conference sponsorship through CNLS, please visit our Conference Sponsorship page.
 
-{% include button.html text="This Year's Conferences & Workshops" link="https://cnls.lanl.gov/External/Conferences.php" color="#0366d6" %}  {% include button.html text="Earlier Events" link="https://twitter.com/intent/tweet/?url=https://alembic.darn.es&text=Alembic%20-%20A%20Jekyll%20boilerplate%20theme&via=DavidDarnes" color="#0d94e7" %} {% include button.html text="Conference Sponsorship" link="https://cnls.lanl.gov/External/workshop_policy.php" color="#f68140" %}  {% include button.html text="Other CNLS Activity" link="https://cnls.lanl.gov/External/" %}
+{% include button.html text="This Year's Conferences & Workshops" link="https://cnls.lanl.gov/External/Conferences.php" color="#0366d6" %}  {% include button.html text="Past Conferences" link="/recent_past_conferences/" color="#0d94e7" %} {% include button.html text="Conference Sponsorship" link="https://cnls.lanl.gov/External/workshop_policy.php" color="#f68140" %}  {% include button.html text="Other CNLS Activity" link="https://cnls.lanl.gov/External/" %}
 
 ## Contact CNLS
 
