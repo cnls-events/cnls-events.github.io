@@ -1,5 +1,5 @@
 ---
-title: Past Workshops and Conferences
+title: CNLS Conferences and Workshops
 feature_text: |
   ## Center for Nonlinear Studies
   ### at Los Alamos National Laboratory
@@ -7,7 +7,7 @@ feature_text: |
 feature_image: "https://picsum.photos/1300/400?image=989"
 excerpt: "Conferences and workshops sponsored by the Center for Nonlinear Studies at Los Alamos National Laboratory"
 ---
-Conference sponsorship is a major institutional activity of  Center for Nonlinear Studies (CNLS). Since CNLS serves as an interface between mission critical research at LANL and the outside research community, conference sponsorship is of vital importance for the Center and the Laboratory. In particular, conference sponsorshop accomplishes the following:
+Conference sponsorship is a major institutional activity of the Center for Nonlinear Studies (CNLS). Since CNLS serves as an interface between mission critical research at LANL and the outside research community, conference sponsorship is of vital importance for the Center and the Laboratory. In particular, conference sponsorshop accomplishes the following:
 - Enabling CNLS to identify and explore the widest range of nonlinear and complex systems problems
 - Helping to disseminate the latest developments in nonlinear and complex systems science
 - Fostering collaboration between LANL researchers and outside researchers and academia
