@@ -1,5 +1,5 @@
 ---
-title: Past Conferences
+title: 2021-2023 Conferences and Workshops
 feature_text: |
   A testfeature of demo of Markdown and HTML includes
 feature_image: "https://picsum.photos/2560/600?image=873"
