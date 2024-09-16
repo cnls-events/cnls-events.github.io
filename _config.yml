@@ -121,16 +121,14 @@ favicons: # Favicons are also used in the manifest file. Syntax is 'size: path'
 
 # 9. Site navigation
 navigation_header:
-- title: Home
-  url: /
-- title: Current Postdocs
-  url: /current_postdocs.html
-- title: Upcoming Events
-  url: /upcoming_events/
-- title: Past Conferences
-  url: /past_conferences/
-- title: News
-  url: /news/
+- title: CNLS Home
+  url: https://cnls.lanl.gov/External/
+- title: 2024 Workshops
+  url: https://cnls.lanl.gov/External/Conferences.php
+- title: 2021-2023 Workshops
+  url: 
+- title: Earlier Workshops
+  url: 
 
 navigation_footer:
 - title: Created by David Darnes
