@@ -110,7 +110,7 @@ aside: true
 
 <small>A small element</small>
 
-[A link](https://david.darn.es "A link")
+[Earlier Conferences and Workshops](/earlier_conferences/)
 
 Lorem ipsum dolor sit amet, consectetur adip* isicing elit, sed do eiusmod *tempor incididunt ut labore et dolore magna aliqua.
 
