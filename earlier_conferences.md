@@ -154,9 +154,9 @@ aside: true
 ### Heading 3
  
 
-[1990s CNLS Conferences](/90s_conferences")
+[CNLS Conferences in the '90s](/90s_conferences")
 
-[1980s CNLS Conferences](/80s_conferences")
+[CNLS Conferences in the '80s](/80s_conferences")
 
 Lorem ipsum dolor sit amet, consectetur adip* isicing elit, sed do eiusmod *tempor incididunt ut labore et dolore magna aliqua.
 
