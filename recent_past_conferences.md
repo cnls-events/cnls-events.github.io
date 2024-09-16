@@ -1,5 +1,5 @@
 ---
-title: Recent Past Conferences and Workshops
+title: Past Conferences and Workshops
 feature_text: |
   2021 Conferences Through Last Year
 feature_image: "https://picsum.photos/2560/600?image=873"
