@@ -1,18 +1,23 @@
 ---
-title: Past Workshops
+title: Past Workshops and Conferences
 feature_text: |
-  ## Center for Nonlinear Studies (CNLS)
-  ### Past Workshops and Conferences
+  ## Center for Nonlinear Studies
+  ### at Los Alamos National Laboratory
   
 feature_image: "https://picsum.photos/1300/400?image=989"
-excerpt: "Conferences and workshops hosted by the Center for Nonlinear Studies at Los Alamos National Laboratory"
+excerpt: "Conferences and workshops sponsored by the Center for Nonlinear Studies at Los Alamos National Laboratory"
 ---
+Conference sponsorship is a major institutional activity of  Center for Nonlinear Studies (CNLS). Since CNLS serves as an interface between mission critical research at LANL and the outside research community, conference sponsorship is of vital importance for the Center and the Laboratory. In particular, conference sponsorshop accomplishes the following:
+- Enabling CNLS to identify and explore the widest range of nonlinear and complex systems problems
+- Helping to disseminate the latest developments in nonlinear and complex systems science
+- Fostering collaboration between LANL researchers and outside researchers and academia
+- Helping to build new areas of research and to refine the direction of existing research areas
 
-Conferences and workshops hosted by the Center for Nonlinear Studies at Los Alamos National Laboratory
+To learn more about obtaining conference sponsorship through CNLS, please visit our Conference Sponsorship page.
 
-{% include button.html text="This Year's Workshops" link="https://cnls.lanl.gov/External/Conferences.php" color="#0366d6" %} {% include button.html text="2021-2023 Workshops" link="https://buymeacoffee.com/daviddarnes#support" color="#f68140" %} {% include button.html text="Earlier Workshops" link="https://twitter.com/intent/tweet/?url=https://alembic.darn.es&text=Alembic%20-%20A%20Jekyll%20boilerplate%20theme&via=DavidDarnes" color="#0d94e7" %} {% include button.html text="Other CNLS Activity" link="https://cnls.lanl.gov/External/" %}
+{% include button.html text="This Year's Conferences & Workshops" link="https://cnls.lanl.gov/External/Conferences.php" color="#0366d6" %}  {% include button.html text="Earlier Events" link="https://twitter.com/intent/tweet/?url=https://alembic.darn.es&text=Alembic%20-%20A%20Jekyll%20boilerplate%20theme&via=DavidDarnes" color="#0d94e7" %} {% include button.html text="Conference Sponsorship" link="https://cnls.lanl.gov/External/workshop_policy.php" color="#f68140" %}  {% include button.html text="Other CNLS Activity" link="https://cnls.lanl.gov/External/" %}
 
-## Contact
+## Contact CNLS
 
 Phone: 505-665-3883  
 Email: cnlsoffice@lanl.gov  
